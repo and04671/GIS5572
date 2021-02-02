@@ -1,0 +1,17 @@
+Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
+Monthly Observation Table for January 1 2020
+Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
+Station Name,Latitude,Longitude,Elevation,Year,Month,Min Temp,Number Missing,Number Estimated
+,deg,deg,ft,,,Degrees F,,
+Eldred,47.688,-96.822,861,2020,1,0.769,0,0
+Eldred,47.688,-96.822,861,2020,2,-3.391,0,0
+Eldred,47.688,-96.822,861,2020,3,13.298,0,0
+Eldred,47.688,-96.822,861,2020,4,28.796,0,0
+Eldred,47.688,-96.822,861,2020,5,40.691,0,0
+Eldred,47.688,-96.822,861,2020,6,56.160,0,0
+Eldred,47.688,-96.822,861,2020,7,60.265,0,0
+Eldred,47.688,-96.822,861,2020,8,54.728,0,0
+Eldred,47.688,-96.822,861,2020,9,42.965,0,0
+Eldred,47.688,-96.822,861,2020,10,26.935,0,0
+Eldred,47.688,-96.822,861,2020,11,17.919,0,0
+Eldred,47.688,-96.822,861,2020,12,9.835,0,0

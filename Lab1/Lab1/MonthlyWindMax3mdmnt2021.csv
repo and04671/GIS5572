@@ -1,0 +1,17 @@
+Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
+Monthly Observation Table for January 1 2020
+Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
+Station Name,Latitude,Longitude,Elevation,Year,Month,Min Temp,Number Missing,Number Estimated
+,deg,deg,ft,,,Degrees F,,
+Perley,47.179,-96.680,895,2020,1,1.148,0,0
+Perley,47.179,-96.680,895,2020,2,-3.666,0,0
+Perley,47.179,-96.680,895,2020,3,15.329,0,0
+Perley,47.179,-96.680,895,2020,4,27.939,0,0
+Perley,47.179,-96.680,895,2020,5,41.840,0,0
+Perley,47.179,-96.680,895,2020,6,57.305,0,0
+Perley,47.179,-96.680,895,2020,7,61.073,0,0
+Perley,47.179,-96.680,895,2020,8,56.972,0,0
+Perley,47.179,-96.680,895,2020,9,44.804,0,0
+Perley,47.179,-96.680,895,2020,10,28.003,0,0
+Perley,47.179,-96.680,895,2020,11,20.294,0,0
+Perley,47.179,-96.680,895,2020,12,9.917,0,0

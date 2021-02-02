@@ -1,0 +1,17 @@
+Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
+Monthly Observation Table for January 1 2020
+Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
+Station Name,Latitude,Longitude,Elevation,Year,Month,Min Temp,Number Missing,Number Estimated
+,deg,deg,ft,,,Degrees F,,
+Berthold,48.38,-101.822,2132,2020,1,4.579,0,0
+Berthold,48.38,-101.822,2132,2020,2,8.348,0,0
+Berthold,48.38,-101.822,2132,2020,3,18.513,0,0
+Berthold,48.38,-101.822,2132,2020,4,23.193,0,0
+Berthold,48.38,-101.822,2132,2020,5,39.939,0,0
+Berthold,48.38,-101.822,2132,2020,6,52.981,0,0
+Berthold,48.38,-101.822,2132,2020,7,56.323,0,0
+Berthold,48.38,-101.822,2132,2020,8,53.258,0,0
+Berthold,48.38,-101.822,2132,2020,9,42.689,0,0
+Berthold,48.38,-101.822,2132,2020,10,26.476,0,0
+Berthold,48.38,-101.822,2132,2020,11,18.963,0,0
+Berthold,48.38,-101.822,2132,2020,12,13.043,0,0
