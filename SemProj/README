@@ -7,3 +7,11 @@ Project Component Goals:
 -create attribute data for street network that contains slope/length
 -create shortest path algorithm with cost as length*slope 
 -create web app script/GUI if time
+
+
+Project Requirements:
+-Data integration using python ETL
+-Intermediate data analysis techniques
+-Connections to background reference
+-Extensively documented codebooks
+-GitHub Repo with documentation
