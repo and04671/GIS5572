@@ -1,1 +1,9 @@
+Primary Project Goal:
+Design an 'accessmap lite' inteface that allows users to compute route path with
+lowest energy cost, or visualize the terrain attribute of individual street segments.
 
+Project Component Goals:
+-attain DEM data for UMN Campus and rectify a street network map to it
+-create attribute data for street network that contains slope/length
+-create shortest path algorithm with cost as length*slope 
+-create web app script/GUI if time
