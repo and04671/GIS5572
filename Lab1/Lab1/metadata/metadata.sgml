@@ -1,0 +1,281 @@
+<metadata>
+
+
+  <idinfo>
+
+    <citation>
+      <citeinfo>
+        <origin>Minnesota DNR - Division of Waters - Water Management Section</origin>
+        <pubdate>2006-11-10 00:00:00.0</pubdate>
+        <title>Minnesota Wild and Scenic River Districts</title>
+        <mgmg1cid></mgmg1cid>
+          <pubinfo>
+            <publish>Minnesota DNR - Division of Waters</publish>
+          </pubinfo>
+        <onlink>http://deli.dnr.state.mn.us</onlink>
+      </citeinfo>
+    </citation>
+
+    <descript>
+      <abstract>District boundaries for wild, scenic, and recreational rivers designated under the Minnesota State Wild and Scenic Rivers Act. Includes portions of the Minnesota River, Mississippi River, Rum River, Kettle River, North Fork of the Crow River and the Cannon River.</abstract>
+      <purpose>To easily identify district boundaries on maps or using GIS software.</purpose>
+      <supplinf>Portions of the Minnesota River (Stearns Co., Wright Co., Sherburne Co., Hennepin Co., and Anoka Co.), Mississippi River (Lac Qui Parle Co., Chippewa Co., Yellow Medicine Co., Renville Co., and Redwood Co.), Rum River (Mille Lacs Co., Sherburne Co., Isanti Co., and Anoka Co.), Kettle River (Pine Co.), North Fork of the Crow River (Meeker Co.) and the Cannon River (Rice Co., Dakota Co., and Goodhue Co.).</supplinf>
+    </descript>
+
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>October 19, 2006</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>October 19, 2006 
+ Some district boundaries were determined by using distance buffers from a river shape file that was made from DNR 24k Lakes data. The DNR 24k Lakes Data are derived primarily from the National Wetlands Inventory (NWI) which are based on 1990 vintage aerial photography. Some 200 quads of data are based on USGS quadrangle maps, which vary widely in vintage from the early 19980s to early 1990s.</current>
+    </timeperd>
+
+    <status>
+      <progress>Complete</progress>
+      <update>As Needed</update>
+    </status>
+    
+    <spdom>
+      <bounding>
+        <westbc>-95.94</westbc>
+        <eastbc>-92.53</eastbc>
+        <northbc>46.41</northbc>
+        <southbc>44.28</southbc>
+      </bounding>
+    </spdom>
+
+    <keywords>
+      <theme>
+        <themekey>wild and scenic, wild rivers, scenic rivers, recreational rivers, land use districts</themekey>
+      </theme>
+      <place>
+        <placekey>Mississippi River, Minnesota River, Rum River, Kettle River, North Fork of the Crow River, Cannon River</placekey>
+      </place>
+    </keywords>
+
+    <accconst>None</accconst>
+    <useconst>District shape files are approximate in many areas. The actual district boundaries are described in Minnesota Rules 6105. The only definitive way to determine if a subject property is within a district is to have the property surveyed and compare that information to the district descriptions in the rules.</useconst>
+    
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Rebecca Wooden</cntper>
+          <cntorg>Minnesota DNR - Division of Waters</cntorg>
+        </cntperp>
+        <cntpos>Supervisor, Rivers and Shorelands</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>500 Lafayette Road - Box 32</address>
+          <city>Saint Paul</city>
+          <state>MN</state>
+          <postal>55155</postal>
+        </cntaddr>
+        <cntvoice>651-259-5717</cntvoice>
+        <cntfax>651-296-0445</cntfax>
+        <cntemail>rebecca.wooden@dnr.state.mn.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+
+    <browse>
+      <browsen>http://jmaps.dnr.state.mn.us/gis/dp_datasample.jsp?mpid=39000496&amp;ptid=2&amp;fcid=1&amp;lname=Minnesota Wild and Scenic River Districts</browsen>
+      <browsed></browsed>
+    </browse>
+
+    <native>ArcView Shapefile</native>
+    
+    <crossref>
+      <citeinfo>
+        <title></title>
+      </citeinfo>
+    </crossref>
+
+  </idinfo>
+
+
+  <dataqual>
+
+    <attracc>
+      <attraccr></attraccr>
+    </attracc>
+
+    <logic>Not specifically assessed</logic>
+    <complete>In some areas the district boundary is described as a set distance from the ordinary high water mark. No geographic data was available for the ordinary high water mark. DNR 24k Lakes data was used to approximate the ordinary high water mark. In cases where there are step riverbanks this data may be very accurate. In cases where there are shallow or gradual riverbanks the ordinary high water mark, and thus the district boundary is more inland than represented in the data. 
+
+In the case of the North Fork of the Crow River, no DNR 24k Lakes data was available to identify the edge of the river. In this case a line representing the center of the river was used as the starting point for the district measurement. The actual district boundary will be further inland than is represented as the ordinary high water mark is on the edge of the river rather than the center.</complete>
+    
+    <posacc>
+      <horizpa>
+        <horizpar>Source layer bdry_wsrpy2:  variable/unknown
+</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>Source layer bdry_wsrpy2:  Not Applicable
+</vertaccr>
+      </vertacc>
+    </posacc>
+     
+    <lineage>
+      <srcinfo>
+        <srcscale>Source layer bdry_wsrpy2:  0
+</srcscale>
+      </srcinfo>
+      <procstep>
+        <procdesc></procdesc>
+      </procstep>
+    </lineage>
+
+  </dataqual>
+
+
+  <spdoinfo>
+
+    <indspref>Wild and Scenic Rivers</indspref>
+    <direct>vector</direct>
+    <mgmg3obj>polygon</mgmg3obj>
+    <mgmg3til>state</mgmg3til>
+
+  </spdoinfo>
+
+
+  <spref>
+
+    <horizsys>
+      <geograph>
+        <latres></latres>
+        <longres></longres>
+      </geograph>
+      <planar>
+        <mapproj>
+          <mapprojn>Transverse Mercator</mapprojn>
+          <mgmg4par>Not Applicable</mgmg4par>
+          <otherprj>Not Applicable</otherprj>
+        </mapproj>
+        <gridsys>
+          <gridsysn>UTM</gridsysn>
+          <utm>
+            <utmzone>15</utmzone>
+          </utm>
+          <spcs>
+            <spcszone></spcszone>
+          </spcs>
+          <mgmg4coz></mgmg4coz>
+          <mgmg4adj>Not Applicable</mgmg4adj>
+        </gridsys>
+        <planci>
+          <coordrep>
+            <absres></absres>
+            <ordres></ordres>
+          </coordrep>
+          <distbrep>
+            <distres>Source layer bdry_wsrpy2:  variable/unknown
+</distres>
+          </distbrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>NAD83</horizdn>
+        <ellips>GRS1980</ellips>
+      </geodetic>
+    </horizsys>
+    <vertdef>
+      <altsys>
+        <altdatum>Not Applicable</altdatum>
+        <altunits>Not Applicable</altunits>
+      </altsys>
+      <depthsys>
+        <depthdn>Not Applicable</depthdn>
+        <depthdu>Not Applicable</depthdu>
+      </depthsys>
+    </vertdef>
+
+  </spref>
+
+
+  <eainfo>
+
+    <overview>
+      <eaover>Data Elements for Attribute Table BDRY_WSRPY2.DBF:
+
+DISTRICT:  Wild and Scenic River District Name
+
+RIVER:  River Name
+
+</eaover>
+      <eadetcit></eadetcit>
+    </overview>
+
+  </eainfo>
+
+
+  <distinfo>
+
+    <distrib>
+      <cntinfo>
+        <cntperp>
+          <cntper>Hal Watson</cntper>
+          <cntorg>DNR-MIS</cntorg>
+        </cntperp>
+        <cntpos>GIS Database Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>Mailing and Physical</addrtype>
+          <address>500 Lafayette Road, Box 11</address>
+          <city>St. Paul</city>
+          <state>MN</state>
+          <postal>55155-4011</postal>
+        </cntaddr>
+        <cntvoice>(651) 259-5508</cntvoice>
+        <cntfax>(651) 297-4946</cntfax>
+        <cntemail>hal.watson@dnr.state.mn.us</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>bdry_wsrpy2</resdesc>
+    <distliab>The Minnesota Department of Natural Resources makes no representations or warranties, express or implied, with respect to the reuse of data provided herewith, regardless of its format or the means of its transmission. There is no guarantee or representation to the user as to the accuracy, currency, suitability, or reliability of this data for any purpose. The user accepts the data ?as is?, and assumes all risks associated with its use. By accepting this data, the user agrees not to transmit this data or provide access to it or any part of it to another party unless the user shall include with the data a copy of this disclaimer. The Minnesota Department of Natural Resources assumes no responsibility for actual or consequential damage incurred as a result of any user?s reliance on this data.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>ArcView Shapefile</formname>
+          <formvern></formvern>
+          <transize>1024</transize>
+        </digtinfo>
+      </digform>
+      <ordering>See Online Linkage or Distribution Contact</ordering>
+    </stdorder>
+
+  </distinfo>
+
+
+  <metainfo>
+
+    <metd>2006-11-09 07:20:39.0</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Rebecca Wooden</cntper>
+          <cntorg>Minnesota DNR - Division of Waters</cntorg>
+        </cntperp>
+        <cntpos>Supervisor, Rivers and Shorelands</cntpos>
+        <cntaddr>
+	  <addrtype>Mailing and Physical</addrtype>
+          <address>500 Lafayette Road - Box 32</address>
+          <city>Saint Paul</city>
+          <state>MN</state>
+          <postal>55155</postal>
+        </cntaddr>
+        <cntvoice>651-259-5717</cntvoice>
+        <cntfax>651-296-0445</cntfax>
+        <cntemail>rebecca.wooden@dnr.state.mn.us</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>Minnesota Geographic Metadata Guidelines</metstdn>
+    <metstdv>1.2</metstdv>
+    <metextns>
+      <onlink>http://www.gis.state.mn.us/stds/metadata.htm</onlink>
+    </metextns>
+
+  </metainfo>
+
+</metadata>
+
