@@ -1,0 +1,17 @@
+Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
+Monthly Observation Table for January 1 2019
+Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
+Station Name,Latitude,Longitude,Elevation,Year,Month,Max Temp,Number Missing,Number Estimated
+,deg,deg,ft,,,Degrees F,,
+Perley,47.179,-96.680,895,2019,1,13.768,0,0
+Perley,47.179,-96.680,895,2019,2,9.815,0,0
+Perley,47.179,-96.680,895,2019,3,27.603,0,0
+Perley,47.179,-96.680,895,2019,4,50.384,0,0
+Perley,47.179,-96.680,895,2019,5,63.206,0,0
+Perley,47.179,-96.680,895,2019,6,77.843,0,0
+Perley,47.179,-96.680,895,2019,7,81.600,0,0
+Perley,47.179,-96.680,895,2019,8,75.537,0,0
+Perley,47.179,-96.680,895,2019,9,68.893,0,0
+Perley,47.179,-96.680,895,2019,10,47.849,0,0
+Perley,47.179,-96.680,895,2019,11,33.424,0,0
+Perley,47.179,-96.680,895,2019,12,21.590,0,0

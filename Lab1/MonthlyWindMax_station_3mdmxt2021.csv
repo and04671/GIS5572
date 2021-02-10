@@ -1,0 +1,6 @@
+Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
+Monthly Observation Table for January 1 2021
+Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
+Station Name,Latitude,Longitude,Elevation,Year,Month,Max Temp,Number Missing,Number Estimated
+,deg,deg,ft,,,Degrees F,,
+Perley,47.179,-96.680,895,2021,1,25.036,0,0

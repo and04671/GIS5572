@@ -1,0 +1,17 @@
+Data from North Dakota Agricultural Weather Network https://ndawn.ndsu.nodak.edu
+Monthly Observation Table for January 1 2020
+Flag Definition Line: M - Missing; E - Estimated; N/A - Not Available
+Station Name,Latitude,Longitude,Elevation,Year,Month,Max Temp,Number Missing,Number Estimated
+,deg,deg,ft,,,Degrees F,,
+Leonard,46.729381,-97.283470,949,2020,1,19.172,0,0
+Leonard,46.729381,-97.283470,949,2020,2,23.745,0,0
+Leonard,46.729381,-97.283470,949,2020,3,36.581,0,0
+Leonard,46.729381,-97.283470,949,2020,4,50.143,0,0
+Leonard,46.729381,-97.283470,949,2020,5,66.241,0,0
+Leonard,46.729381,-97.283470,949,2020,6,83.716,0,0
+Leonard,46.729381,-97.283470,949,2020,7,83.690,0,0
+Leonard,46.729381,-97.283470,949,2020,8,80.171,0,0
+Leonard,46.729381,-97.283470,949,2020,9,70.122,0,0
+Leonard,46.729381,-97.283470,949,2020,10,49.000,0,0
+Leonard,46.729381,-97.283470,949,2020,11,45.058,0,0
+Leonard,46.729381,-97.283470,949,2020,12,32.516,0,0
