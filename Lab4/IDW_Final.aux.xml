@@ -1,0 +1,8 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>IDW_Final</Description>
+    <Metadata>
+      <MDI key="RepresentationType">ATHEMATIC</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
