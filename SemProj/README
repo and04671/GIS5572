@@ -1,3 +1,13 @@
+The report file is: SemesterProject.dox/pdf
+
+The code file is: V3.ipnyb/pdf
+
+
+
+
+
+
+
 Primary Project Goal:
 Design an 'accessmap lite' inteface that allows users to compute route path with
 lowest energy cost, or visualize the terrain attribute of individual street segments.
@@ -15,3 +25,5 @@ Project Requirements:
 -Connections to background reference
 -Extensively documented codebooks
 -GitHub Repo with documentation
+
+
